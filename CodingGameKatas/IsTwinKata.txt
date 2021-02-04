@@ -1,0 +1,16 @@
+﻿------------
+IsTwin KATA
+------------
+
+Description:
+
+A twin of a word is a word written with the same letters (case insensitive) but not necessarily in the same order.
+
+The IsTwin(str1, str2) method should return true if str2 is the twin of str1 and false otherwise.
+
+str1 and str2 are two non null strings.
+
+Examples:
+
+(Silent, Listen) => true
+(TroTro, TraTra) => false

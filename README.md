@@ -15,6 +15,7 @@ Some katas from coding game website
 >
 > Katas are the following :
 >
+> :writing_hand: `IsTwinKata`
 > :writing_hand: `IsDuoDigitKata`
 > :writing_hand: `ClosestToZeroKata`
 

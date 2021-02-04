@@ -2,6 +2,7 @@
 {
     public enum BenchCategory
     {
+        IsTwin,
         IsDuoDigit,
         ClosestToZero,
     }
