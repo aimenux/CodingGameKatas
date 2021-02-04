@@ -1,3 +1,5 @@
+![.NET 5](https://github.com/aimenux/CodingGameKatas/workflows/.NET%205/badge.svg)
+
 # CodingGameKatas
 ```
 Some katas from coding game plateform
@@ -11,5 +13,5 @@ Some katas from coding game plateform
 > Katas are the following :
 > - `ClosestToZeroKata`
 
-**`Tools`** : vs19, net 5.0, xunit, benchmarkdotnet
+**`Tools`** : vs19, net 5.0, xunit, fluentassertions, benchmarkdotnet
 
