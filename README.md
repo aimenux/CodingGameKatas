@@ -2,7 +2,7 @@
 
 # CodingGameKatas
 ```
-Some katas from coding game plateform
+Some katas from coding game website
 ```
 
 > In this repo, i m playing with some katas from [coding game web site](https://www.codingame.com/start). The repo is structured into 3 projects:
