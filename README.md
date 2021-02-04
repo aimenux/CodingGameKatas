@@ -15,6 +15,7 @@ Some katas from coding game website
 >
 > Katas are the following :
 >
+> :writing_hand: `IsDuoDigitKata`
 > :writing_hand: `ClosestToZeroKata`
 
 **`Tools`** : vs19, net 5.0, xunit, fluentassertions, benchmarkdotnet

@@ -8,6 +8,7 @@ namespace CodingGameKatasBenchs
         {
             var benchmarks = new[]
             {
+                typeof(IsDuoDigitBench),
                 typeof(ClosestToZeroBench),
             };
 

@@ -1,0 +1,19 @@
+﻿---------------
+IsDuoDigit KATA
+---------------
+
+Description:
+
+We call an interger a "duodigit" if its decimal representation use no more than 2 different digits.
+For example, 12, 110, -33333 are duodigits, but 102 is not.
+
+Implement the method IsDuoDigit(number) which returns an integer :
+1 if number is a duodigit
+0 otherwise
+
+Examples:
+
+1 => 1
+102 => 0
+3030 => 1
+-2021 => 0
