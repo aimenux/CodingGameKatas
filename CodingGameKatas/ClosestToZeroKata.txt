@@ -1,0 +1,17 @@
+﻿-------------------
+ClosestToZero KATA
+-------------------
+
+Description:
+
+Find the closest value to zero from the array. 
+Array contains only integers. Notice that there are negatives.
+If there are two integers equally close to zero return the positive element (example: [-5, 5] return 5).
+if array is null or empty, return 0.
+
+Examples:
+
+[5, 2, -2]      => 2
+[5, 2, 1]       => 1
+[13, 0, -6]     => 0
+[2, 4, -1, -3]  => -1
