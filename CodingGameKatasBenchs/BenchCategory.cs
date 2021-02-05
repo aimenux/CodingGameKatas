@@ -5,5 +5,6 @@
         IsTwin,
         IsDuoDigit,
         ClosestToZero,
+        CalculateTotalPrice
     }
 }

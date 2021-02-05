@@ -1,0 +1,22 @@
+﻿------------------------
+CalculateTotalPrice KATA
+------------------------
+
+Description:
+
+You work for a shop that wishes to give a discount to the most expensive item purshased by a given customer.
+You are tasked by the shop owner to implement the method CalculateTotalPrice(prices, discount) which takes :
+- the list of prices of the products purchased by a customer 
+- the percentage discount
+and returns the total puchase price as integer (rounded down if the total is float number)
+
+constraints :
+
+0 <= discount <= 100
+0 < price of a product < 100000
+0 < number of products < 100
+
+Examples:
+
+([2, 3, 6, 1], 50%) => 9
+([5, 4, 1, 7], 50%) => 13

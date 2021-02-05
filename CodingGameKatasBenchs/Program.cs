@@ -11,6 +11,7 @@ namespace CodingGameKatasBenchs
                 typeof(IsTwinBench),
                 typeof(IsDuoDigitBench),
                 typeof(ClosestToZeroBench),
+                typeof(CalculateTotalPriceBench)
             };
 
             var switcher = new BenchmarkSwitcher(benchmarks);
